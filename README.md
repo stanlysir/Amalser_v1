@@ -3,7 +3,7 @@
 ## Its_me_Stanly 
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src=https://i.imgur.com/il2yHb0.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Stanlysir](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  [![Stanlysir](<img src=https://i.imgur.com/rCt49wa.jpeg>
  https://github.com/Stanlysir/Mayavi |  
 ----|
 [Its_me_Stanly](https://github.com/Stanlysir/Mayavi)  |
