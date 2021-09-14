@@ -43,13 +43,41 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
+
   <div align="center">
+
     
-  [![Stanlysir](<img src=https://i.imgur.com/rCt49wa.jpeg>
- https://github.com/Stanlysir/Mayavi |  
-----|
-[Its_me_Stanly](https://github.com/Stanlysir/Mayavi)  |
-Base, Bug Fixes, Modules | 
+
+  [![Amalser](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan/Amalser_v1) |  [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/AI-VIKI) | [![shahid-devil](https://github.com/shahid-devil.png?size=100)](https://github.com/shahid-devil) 
+
+----|----|----
+
+[Amalser](https://github.com/cyberchekuthan/Amalser_v1)  | [afnanplk](https://github.com/afnanplk/Pinky) | [shahid-devil](https://github.com/shahid-devil)
+
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+
+  </div>
+
+## License
+
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+  ##Special thanks for
+
+'Shahid-devil'
+
+'https://github.com/shahid-devil/luttapi.git'
+
+    
+
+  
+
+
+
   
     
 
