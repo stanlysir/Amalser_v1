@@ -39,7 +39,8 @@ if (Config.WORKTYPE == 'private') {
         r_text[11] = "https://i.imgur.com/IUb17JQ.mp4";
         r_text[12] = "https://i.imgur.com/SH3tyRo.mp4";
         r_text[13] = "https://i.imgur.com/mSAFD9c.mp4";
-        r_text[14] = "https://imgur.com/a/yY48lMK.mp4";
+        r_text[14] = "https://i.imgur.com/2xPngfa.mp4";
+        r_text[15] = "https://imgur.com/a/yY48lMK.mp4";
         
         
 
@@ -78,7 +79,8 @@ else if (Config.WORKTYPE == 'public') {
         r_text[11] = "https://i.imgur.com/IUb17JQ.mp4";
         r_text[12] = "https://i.imgur.com/SH3tyRo.mp4";
         r_text[13] = "https://i.imgur.com/mSAFD9c.mp4";
-        r_text[14] = "https://imgur.com/a/yY48lMK.mp4";
+        r_text[14] = "https://i.imgur.com/2xPngfa.mp4";
+        r_text[15] = "https://imgur.com/a/yY48lMK.mp4";
         
         
 
